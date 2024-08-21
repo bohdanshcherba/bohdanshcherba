@@ -1,5 +1,5 @@
 # 💫 About Me:
-Highly motivated and experienced React/React Native developer with a passion for creating<br>innovative, user-friendly applications. Have the ability to develop and maintain complex web and<br>mobile applications. I am a student of Lviv Polytechnic. A graduate of Binary Academy 2022. I'm<br>currently work as Teacher and I want to change my job to Front-End developer soon.<br>
+Highly motivated and experienced React/Next.js developer with a strong passion for creating innovative and user-friendly applications. Skilled in developing and maintaining complex web and PWA applications. I hold a degree in Computer Science from Lviv Polytechnic and am graduate of Binary Academy 2022, where I specialized as a full-stack developer. I have professional experience as a front-end developer and have also worked as a web and Python teacher.
 
 
 ## 🌐 Socials:
